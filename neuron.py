@@ -61,3 +61,5 @@ class LIFNeuron:
         """Reset neuron to resting state."""
         self.v = self.v_rest
         self.t_since_spike = float("inf")
+
+# second comment
