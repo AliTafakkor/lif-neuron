@@ -4,7 +4,7 @@ This is the example project for a hands-on git tutorial. The code simulates a
 **Leaky Integrate-and-Fire (LIF) neuron** — one of the simplest models of how
 a neuron integrates input and fires a spike.
 
-## Start here
+## Hey Let's Start here
 
 👉 Open [`GIT_TUTORIAL.md`](./GIT_TUTORIAL.md) and follow along from Step 1.
 
