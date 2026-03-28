@@ -11,7 +11,7 @@ When V crosses v_thresh, a spike is recorded and V resets to v_reset.
 class LIFNeuron:
     def __init__(
         self,
-        tau_m=20.0,     # membrane time constant (ms)
+        tau_m=25.0,     # membrane time constant (ms)
         v_rest=-65.0,   # resting potential (mV)
         v_thresh=-50.0, # spike threshold (mV)
         v_reset=-65.0,  # reset potential after spike (mV)
