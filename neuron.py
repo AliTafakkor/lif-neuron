@@ -6,7 +6,7 @@ The membrane potential V evolves as:
 
 When V crosses v_thresh, a spike is recorded and V resets to v_reset.
 """
-
+# first comment
 
 class LIFNeuron:
     def __init__(
